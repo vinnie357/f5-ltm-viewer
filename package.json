@@ -1,0 +1,23 @@
+{
+  "name": "f5-ltm-viewer",
+  "version": "1.0.0",
+  "description": "view ltm objects with rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "f5",
+    "bigip",
+    "ltm",
+    "rest"
+  ],
+  "author": "v.mazza@f5.com",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "json2xls": "^0.1.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

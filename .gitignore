@@ -1,3 +1,9 @@
+# app specific
+.vscode
+/user/creds.json
+/user/devices.json
+/csv_exports/*
+
 # Logs
 logs
 *.log

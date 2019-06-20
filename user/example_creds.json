@@ -1,0 +1,14 @@
+{
+    "creds": [
+        {
+            "name": "bigip4",
+            "web_user": "admin",
+            "web_pass": "admin1"
+        },
+        {
+            "name": "bigip3",
+            "web_user": "admin",
+            "web_pass": "admin2"
+        }
+    ]
+}
