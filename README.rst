@@ -21,7 +21,7 @@ cli output
 ----------
 .. code::
 
-    node -h host -c bigip4
+    node app.js -h host -c bigip4
 
 |
 
@@ -30,7 +30,7 @@ export to default path
 
 .. code::
 
-    node -h host -c bigip4 -e 
+    node app.js -h host -c bigip4 -e 
 
 |
 
@@ -39,7 +39,7 @@ export to specific path
 
 .. code::
 
-    node -h 192.168.20.34 -c bigip4 -e ./exports/
+    node app.js -h 192.168.20.34 -c bigip4 -e ./exports/
 
 |
 
